@@ -32,7 +32,7 @@ Rain Data:
 
 <img src="Resources/rain.png">
 
-We can drill down further on precipitation data, where we can see the statistics of rain for each weather station. The thought process here is there may be less rain at certain locations either due to its location or elevation. From the table, we see that there is less rain on average at station USC00511918.
+We can drill down further on precipitation data, where we can see the statistics of rain for each weather station. The thought process here is there may be less rain at certain locations either due to its location or elevation. From the table, we see that there is less rain on average at station USC00511918, meaning it may be more favourable to place our business near that area.
 
 Station Data for Rain:
 
